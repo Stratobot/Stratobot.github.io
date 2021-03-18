@@ -1,0 +1,9 @@
+title: Stratobot
+description:  A Multipurpose Discord Bot with Many Purposes!
+remote_theme: tuur29/pages-themes-cayman
+darkmode: true
+color:
+  header: "#000"
+  gradient_left: "#000fff"
+  gradient_right: "#fff"
+logo_url: https://stratobot.github.io/assets/img/stars/star_blue.png
