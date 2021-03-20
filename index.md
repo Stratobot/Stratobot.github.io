@@ -57,7 +57,7 @@ Command | Aliases | Description | Arguments | Example | Required Permission
 `donger` | Soon | Soon | Soon | `Soon`
 
 ## Ifiers
-Commands Showing how to make the bot run smoothly!
+Commands that _Ifys_ your message
 
 Command | Aliases | Description | Arguments | Example | Required Permission
 ---|---|---|---|---|---
