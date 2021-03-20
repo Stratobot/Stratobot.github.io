@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Stratobot
 ---
 
 # Try it out!
