@@ -2,12 +2,6 @@
 layout: default
 ---
 
-Stratobot Website.
-
-Stratobot is a multipurpose Discord bot.
-
-Stratobot has many new commands! check it out!
-
 # Try it out!
 Type `,help` to get started.
 <amp-iframe class="rounded" src="https://e.widgetbot.io/channels/562556870741590036/807840721943658527" height="600" frameborder="0" sandbox="allow-scripts allow-same-origin allow-popups allow-forms"><noscript><iframe class="rounded" src="https://e.widgetbot.io/channels/562556870741590036/807840721943658527" height="600" frameborder="0" sandbox="allow-scripts allow-same-origin allow-popups allow-forms"></iframe></noscript></amp-iframe>
@@ -39,7 +33,6 @@ Command | Aliases | Description | Arguments | Example | Required Permission
 `lizard` | Soon | Soon | Soon | `Soon`
 `duck` | Soon | Soon | Soon | `Soon`
 `fox` | Soon | Soon | Soon | `Soon`
-`Soon` | Soon | Soon | Soon | `Soon`
 
 ## Bible
 Read some verses from the Bible!
@@ -47,11 +40,6 @@ Read some verses from the Bible!
 Command | Aliases | Description | Arguments | Example | Required Permission
 ---|---|---|---|---|---
 `bible` | Soon | Soon | Soon | `Soon`
-`Soon` | Soon | Soon | Soon | `Soon`
-`Soon` | Soon | Soon | Soon | `Soon`
-`Soon` | Soon | Soon | Soon | `Soon`
-`Soon` | Soon | Soon | Soon | `Soon`
-`Soon` | Soon | Soon | Soon | `Soon`
 
 ## Fun
 Some commands which will make you Smile!
@@ -73,11 +61,7 @@ Commands Showing how to make the bot run smoothly!
 Command | Aliases | Description | Arguments | Example | Required Permission
 ---|---|---|---|---|---
 `emojify` | Soon | Soon | Soon | `Soon`
-`Soon` | Soon | Soon | Soon | `Soon`
-`Soon` | Soon | Soon | Soon | `Soon`
-`Soon` | Soon | Soon | Soon | `Soon`
-`Soon` | Soon | Soon | Soon | `Soon`
-`Soon` | Soon | Soon | Soon | `Soon`
+
 
 ## GetStarted
 Commands Showing how to make the bot run smoothly!
@@ -141,8 +125,6 @@ Command | Aliases | Description | Arguments | Example | Required Permission
 `links` | Soon | Soon | Soon | `Soon`
 `info` | Soon | Soon | Soon | `Soon`
 `servers` | Soon | Soon | Soon | `Soon`
-`Soon` | Soon | Soon | Soon | `Soon`
-`Soon` | Soon | Soon | Soon | `Soon`
 
 ## Utilities
 Guild Management and more!
