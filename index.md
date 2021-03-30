@@ -147,4 +147,9 @@ Command | Aliases | Description | Arguments | Example | Required Permission
 `snipe` | Soon | Soon | Soon | `Soon`
 `prefix` | Soon | Soon | Soon | `Soon`
 
+# Support
+
+Smile Development:
+<a href="https://discord.gg/kz2ab6RRuk" target="_blank" rel="noopener"><amp-img class="rounded" src="https://discord.com/api/guilds/728813015016669274/embed.png?style=banner3" alt="Discord" layout="fixed" height="140" width="320"><noscript><img class="rounded" src="https://discord.com/api/guilds/728813015016669274/embed.png?style=banner3" width="320" height="140" alt="Discord"></noscript></amp-img></a>
+
 Stratobot was created by [AirSupplier](https://airsupplier.github.io).
