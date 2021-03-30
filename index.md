@@ -2,13 +2,21 @@
 layout: default
 title: Stratobot
 ---
+# Stratobot - Discord Bot!
 
-# Try it out!
-Type `,help` to get started.
-<amp-iframe class="rounded" src="https://e.widgetbot.io/channels/562556870741590036/807840721943658527" height="600" frameborder="0" sandbox="allow-scripts allow-same-origin allow-popups allow-forms"><noscript><iframe class="rounded" src="https://e.widgetbot.io/channels/562556870741590036/807840721943658527" height="600" frameborder="0" sandbox="allow-scripts allow-same-origin allow-popups allow-forms"></iframe></noscript></amp-iframe>
+Made with love to be the glue to your community. Keep your community together and active!
 
-<a href="https://discord.gg/kz2ab6RRuk" target="_blank" rel="noopener"><amp-img class="rounded" src="https://discordapp.com/api/guilds/562556870741590036/embed.png?style=banner3" alt="Discord" layout="fixed" height="140" width="320"><noscript><img class="rounded" src="https://discordapp.com/api/guilds/562556870741590036/embed.png?style=banner3" width="320" height="140" alt="AMP"></noscript></amp-img></a>
+# Features
 
+## Entertainment
+With Stratobot entertainment there is never a dull moment. Even with its basic start, Stratobot is coming in strong with many new features lined up to kickstart activity in your server! Whether it be animals, economy, music, or even memes lol! ~Stratobot will have it all under control[!](https://stratobot.github.io/web/assets/entertainment.png)
+
+## Image Generation
+Image-Generation
+You can make funny images, memes and more[!](https://stratobot.github.io/web/assets/imggeneration.png)
+
+## Moderation
+Stratobot comes with a simple but efficient moderation system. Yes, the current system is pretty bare bones featuring the Kick, Ban, Purge, and Prefix which is absolutely perfect for many Discord servers! The simplicity of the current moderation makes head room for some spectacular expansions with some great and unique features, some of which are already in development[!](https://stratobot.github.io/web/assets/moderation.png)
 
 
 Stratobot was created by [AirSupplier](https://airsupplier.github.io).
