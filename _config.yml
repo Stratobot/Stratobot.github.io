@@ -5,5 +5,5 @@ darkmode: true
 color:
   header: "#000"
   gradient_left: "#ff0000"
-  gradient_right: "#fff"
+  gradient_right: "#ff6961"
 logo_url: https://stratobot.github.io/assets/img/stars/star_red.png
