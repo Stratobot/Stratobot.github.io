@@ -22,122 +22,113 @@ By default, preifx is `,`. You can change it by using `,prefix`!
 ## Animals
 See a multitude of animals from various APIs!
 
-Command | Aliases | Description | Arguments | Example | Required Permission
+Command | Description | Arguments | Example | Aliases | Required Permission
 ---|---|---|---|---|---
-`cat` | Soon | Soon | Soon | `Soon`
-`dog` | Soon | Soon | Soon | `Soon`
-`lizard` | Soon | Soon | Soon | `Soon`
-`duck` | Soon | Soon | Soon | `Soon`
-`fox` | Soon | Soon | Soon | `Soon`
-
-## Bible
-Read some verses from the Bible!
-
-Command | Aliases | Description | Arguments | Example | Required Permission
----|---|---|---|---|---
-`bible` | Soon | Soon | Soon | `Soon`
+`cat` | Sends a random cat image | none | Soon | `Soon`
+`dog` | Sends a random dog image | none | Soon | `Soon`
+`lizard` | Sends a random lizard image | none | Soon | `Soon`
+`duck` | Sends a random duck image | none | Soon | `Soon`
+`fox` | Sends a random fox image | none | fox | `Soon`
 
 ## Fun
 Some commands which will make you Smile!
 
-Command | Aliases | Description | Arguments | Example | Required Permission
+Command | Description | Arguments | Example | Aliases | Required Permission
 ---|---|---|---|---|---
-`howgay` | Soon | Soon | Soon | `Soon`
-`iq` | Soon | Soon | Soon | `Soon`
-`simprate` | Soon | Soon | Soon | `Soon`
-`yesno` | Soon | Soon | Soon | `Soon`
-`eightball` | Soon | Soon | Soon | `Soon`
-`owo` | Soon | Soon | Soon | `Soon`
-`lenny` | Soon | Soon | Soon | `Soon`
-`donger` | Soon | Soon | Soon | `Soon`
+`howgay` | checks how gay you are | none | Soon | `Soon`
+`iq` | checks how smart you are | none | Soon | `Soon`
+`simprate` | simp | none | Soon | `Soon`
+`yesno` | picks yes or no for you | none | Soon | `Soon`
+`eightball` | same as yes no, but this time, it's 8 | Soon | Soon | `Soon`
+`owo` | sends random owo | none | none | `Soon`
+`lenny` | sends random lenny face | none | Soon | `Soon`
+`donger` | sends random donger face | none | Soon | `Soon`
 
 ## Ifiers
 Commands that _Ifys_ your message
 
-Command | Aliases | Description | Arguments | Example | Required Permission
+Command | Description | Arguments | Example | Aliases | Required Permission
 ---|---|---|---|---|---
-`emojify` | Soon | Soon | Soon | `Soon`
+`emojify` | emojifies your text | text | Soon | `Soon`
 
 
 ## GetStarted
 Commands Showing how to make the bot run smoothly!
 
-Command | Aliases | Description | Arguments | Example | Required Permission
+Command | Description | Arguments | Example | Aliases | Required Permission
 ---|---|---|---|---|---
-`permissions` | Soon | Soon | Soon | `Soon`
-`setup` | Soon | Soon | Soon | `Soon`
+`permissions` | shows needed permissions | none | no need | `Administrator`
+`setup` | puts needed perms in each channel | none | no need | `Administrator`
 
 ## Images
 See images.. obviously... (you can make some memes)
 
-Command | Aliases | Description | Arguments | Example | Required Permission
+Command | Description | Arguments | Example | Aliases | Required Permission
 ---|---|---|---|---|---
-`avatar` | Soon | Soon | Soon | `Soon`
-`drip` | Soon | Soon | Soon | `Soon`
-`firsttime` | Soon | Soon | Soon | `Soon`
-`grave` | Soon | Soon | Soon | `Soon`
-`heaven` | Soon | Soon | Soon | `Soon`
-`stonks` | Soon | Soon | Soon | `Soon`
-`tableflip` | Soon | Soon | Soon | `Soon`
-`wolverine` | Soon | Soon | Soon | `Soon`
-`trash` | Soon | Soon | Soon | `Soon`
-`heaven` | Soon | Soon | Soon | `Soon`
-`gay` | Soon | Soon | Soon | `Soon`
-`trigger` | Soon | Soon | Soon | `Soon`
-`wasted` | Soon | Soon | Soon | `Soon`
-`wanted` | Soon | Soon | Soon | `Soon`
-`yt` | Soon | Soon | Soon | `Soon`
-`weather` | Soon | Soon | Soon | `Soon`
-`meme` | Soon | Soon | Soon | `Soon`
+`avatar` | your avatar | Soon | Soon | `Soon`
+`drip` | makes drip meme out of you | none/mention someone | Soon | `Soon`
+`firsttime` | makes firsttime meme out of you | none/mention someone | Soon | `Soon`
+`grave` | makes grave meme out of you | none/mention someone | Soon | `Soon`
+`heaven` | makes heaven meme out of you | none/mention someone | Soon | `Soon`
+`stonks` | makes stonks meme out of you | none/mention someone | Soon | `Soon`
+`tableflip` | makes tableflip meme out of you | none/mention someone | Soon | `Soon`
+`wolverine` | makes wolverine meme out of you | none/mention someone | Soon | `Soon`
+`trash` | makes trash meme out of you | none/mention someone | none/mention someone | `Soon`
+`heaven` | makes heaven meme out of you | none/mention someone | Soon | `Soon`
+`gay` | makes gay meme out of you | none/mention someone | Soon | `Soon`
+`trigger` | makes trigger meme out of you | none/mention someone | Soon | `Soon`
+`wasted` | makes wasted meme out of you | none/mention someone | Soon | `Soon`
+`wanted` | makes wanted meme out of you | none/mention someone | Soon | `Soon`
+`weather` | makes weather meme out of you | none/mention someone | Soon | `Soon`
+`meme` | random meme | none | Soon | `Soon`
 
 
 ## Moderation
 Great commands used to manage your server!
 
-Command | Aliases | Description | Arguments | Example | Required Permission
+Command | Description | Arguments | Example | Aliases | Required Permission
 ---|---|---|---|---|---
-`kick` | Soon | Soon | Soon | `Soon`
-`ban` | Soon | Soon | Soon | `Soon`
-`nick` | Soon | Soon | Soon | `Soon`
-`rank` | Soon | Soon | Soon | `Soon`
-`derank` | Soon | Soon | Soon | `Soon`
+`kick` | kicks a user | user and reason (optional) | Soon | `Soon`
+`ban` | bans a user | user and reason (optional) | Soon | `Soon`
+`nick` | change somebody's nickname | user and new name | Soon | `Soon`
+`rank` | add roles to a user | user and role (optional) | Soon | `Soon`
+`derank` | remove roles from a user | user and role (optional) | Soon | `Soon`
 
 ## Miscellaneous
 Also "kind-of" uncategorized
 
-Command | Aliases | Description | Arguments | Example | Required Permission
+Command | Description | Arguments | Example | Aliases | Required Permission
 ---|---|---|---|---|---
-`whois` | Soon | Soon | Soon | `Soon`
-`poll` | Soon | Soon | Soon | `Soon`
-`quickpoll` | Soon | Soon | Soon | `Soon`
-`invites` | Soon | Soon | Soon | `Soon`
+`whois` | shows user info | none/user | Soon | `Soon`
+`poll` | does poll | question | Soon | `Soon`
+`quickpoll` | does poll again, but ez-ier to use | question | Soon | `Soon`
+`invites` | checks how many people you invites | none | Soon | `Soon`
 
 ## MyInfo
 Some of the bot's info!
 
-Command | Aliases | Description | Arguments | Example | Required Permission
+Command | Description | Arguments | Example | Aliases | Required Permission
 ---|---|---|---|---|---
-`ping` | Soon | Soon | Soon | `Soon`
-`links` | Soon | Soon | Soon | `Soon`
-`info` | Soon | Soon | Soon | `Soon`
-`servers` | Soon | Soon | Soon | `Soon`
+`ping` | shows bot latency | none | Soon | `Soon`
+`links` | sends links | none | Soon | `Soon`
+`info` | shows my info | none | Soon | `Soon`
 
 ## Utilities
 Guild Management and more!
 
-Command | Aliases | Description | Arguments | Example | Required Permission
+Command | Description | Arguments | Example | Aliases | Required Permission
 ---|---|---|---|---|---
-`setdelay` | Soon | Soon | Soon | `Soon`
-`silence` | Soon | Soon | Soon | `Soon`
-`unsilence` | Soon | Soon | Soon | `Soon`
-`clear` | Soon | Soon | Soon | `Soon`
-`ccategory` | Soon | Soon | Soon | `Soon`
-`cchannel` | Soon | Soon | Soon | `Soon`
+`setdelay` | sets channel slowmode | seconds | Soon | `Soon`
+`silence` | locks a channel | none | Soon | `Soon`
+`unsilence` | unlocks a channel | none | Soon | `Soon`
+`clear` | purges messages | number of messages | Soon | `Soon`
+`ccategory` | makes a category | name | Soon | `Soon`
+`cchannel` | makes a channel | name | Soon | `Soon`
 
 ## Uncategorized
 List of commands which arent categorized...
 
-Command | Aliases | Description | Arguments | Example | Required Permission
+Command | Description | Arguments | Example | Aliases | Required Permission
 ---|---|---|---|---|---
-`snipe` | Soon | Soon | Soon | `Soon`
-`prefix` | Soon | Soon | Soon | `Soon`
+`snipe` | shows last deleted message | none | Soon | `Soon`
+`prefix` | changes prefix | prefix | Soon | `Soon`
