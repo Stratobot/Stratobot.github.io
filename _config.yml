@@ -7,3 +7,5 @@ color:
   gradient_left: "#ff0000"
   gradient_right: "#ff6961"
 logo_url: https://stratobot.github.io/assets/img/stars/star_red.png
+gems:
+- jekyll-seo-tag
